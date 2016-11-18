@@ -1,0 +1,15 @@
+{
+  "name": "phaser-ts",
+  "version": "0.0.1",
+  "description": "A CLI for interacting with Phaser TypeScript projects.",
+  "main": "index.js",
+  "author": "Nicholas Scheurich <nick@scheurich.me> (http://nick.scheurich.me)",
+  "license": "ISC",
+  "bin": {
+    "phaser-ts": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0"
+  }
+}
