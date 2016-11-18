@@ -35,8 +35,7 @@ $ phaser-ts generate --help
 
 ## License
 
-This project is ISC © [Nicholas Scheurich](http://nick.scheurich.me)
-
+This project is ISC © [Nicholas Scheurich](http://nick.scheurich.me).<br>
 *Phaser* is MIT © Richard Davey, Photon Storm Ltd.
 
 [npm-image]: https://badge.fury.io/js/phaser-ts.svg
